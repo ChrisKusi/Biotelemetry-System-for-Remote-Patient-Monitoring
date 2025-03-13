@@ -89,20 +89,6 @@ See `images/wiring_diagram.png` for a visual representation.
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/<your-username>/biotelemetry-system.git
-   cd biotelemetry-system
-
-   I understand your request! You want to prepare your ESP32 TTGO T-Call SIM800L-based biotelemetry project for uploading to GitHub, complete with a comprehensive `README.md` file, relevant images, and all necessary details to make it a well-documented repository. I’ll help you create these materials, ensuring your project is professional, clear, and ready for others to explore or contribute to. Below, I’ll provide:
-
-1. **A polished `README.md`** file in Markdown format, tailored to your project.
-2. **Suggestions for images** to include (and descriptions of what they should depict).
-3. **Guidance on structuring your GitHub repository**.
-4. **Any additional notes** to ensure everything is complete.
-
 Let’s get started!
 
 
