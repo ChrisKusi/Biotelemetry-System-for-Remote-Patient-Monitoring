@@ -39,14 +39,14 @@ This project is an advanced health monitoring system built using an **ESP32 TTGO
 
 ## Hardware Components
 
-| Component                  | Description                                  | Image Reference         |
-|----------------------------|----------------------------------------------|-------------------------|
-| ESP32 TTGO T-Call SIM800L  | Microcontroller with WiFi and GSM            | `ttgo_tcall.jpg`        |
-| MAX30102 Sensor            | Pulse oximeter and heart rate sensor         | `max30102.jpg`          |
-| 20x4 I2C LCD Display       | Displays messages and readings               | `lcd_20x4.jpg`          |
-| RGB LED Module             | Visual alerts (Red, Green, Blue)             | `rgb_led.jpg`           |
-| Buzzer                     | Audible alerts                               | `buzzer.jpg`            |
-| Push Button                | Triggers measurement                         | `button.jpg`            |
+| Component                  | Description                                  |
+|----------------------------|----------------------------------------------|
+| ESP32 TTGO T-Call SIM800L  | Microcontroller with WiFi and GSM            | 
+| MAX30102 Sensor            | Pulse oximeter and heart rate sensor         | 
+| 20x4 I2C LCD Display       | Displays messages and readings               | 
+| RGB LED Module             | Visual alerts (Red, Green, Blue)             | 
+| Buzzer                     | Audible alerts                               | 
+| Push Button                | Triggers measurement                         | 
 
 ---
 
@@ -183,9 +183,7 @@ Let’s get started!
 
 | Description                | Image File             |
 |----------------------------|------------------------|
-| Welcome Screen             | `welcome_screen.jpg`   |
 | Measuring in Progress      | `measuring.jpg`        |
-| Final Results              | `results.jpg`          |
 | SMS Sent Confirmation      | `sms_sent.jpg`         |
 | Blynk App Dashboard        | `blynk_dashboard.jpg`  |
 
