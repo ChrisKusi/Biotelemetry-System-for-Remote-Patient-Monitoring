@@ -69,7 +69,7 @@ This project is an advanced health monitoring system built using an **ESP32 TTGO
 | SIM800L TX        | GPIO 27                  |                        |
 | SIM800L RX        | GPIO 26                  |                        |
 
-See `images/wiring_diagram.png` for a visual representation.
+See `images/wiring_diagram.jpg` for a visual representation.
 
 ---
 
