@@ -96,7 +96,7 @@ Let’s get started!
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/ChrisKusi/Biotelemetry-System-for-Remote-Patient-Monitoring.git](https://github.com/ChrisKusi/Biotelemetry-System-for-Remote-Patient-Monitoring.git)
+   git clone https://github.com/ChrisKusi/Biotelemetry-System-for-Remote-Patient-Monitoring.git
    cd Biotelemetry-System-for-Remote-Patient-Monitoring
    ```
 
